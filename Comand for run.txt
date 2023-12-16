@@ -1,0 +1,1 @@
+streamlite run "C:\Users\nikhilkumar jaiswal\Desktop\Model\mulitiple deases prediction.py"
